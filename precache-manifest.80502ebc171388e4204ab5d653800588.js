@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8f80c72db528e1f32392493eb4711e3",
+    "revision": "beee9d96120ed21a539ac476ca9deb94",
     "url": "/index.html"
   },
   {
-    "revision": "9c6b8392527b1f601c6f",
+    "revision": "4ebb0eab8c99bc180549",
     "url": "/static/css/3.ff7d2bcb.chunk.css"
   },
   {
-    "revision": "939d30770c16dba9c791",
+    "revision": "f42c4cb70073be9e5226",
     "url": "/static/css/4.098adf38.chunk.css"
   },
   {
-    "revision": "4b837bd5c6e37225ad54",
+    "revision": "e0c60985653a4e478297",
     "url": "/static/css/main.67ed402d.chunk.css"
   },
   {
-    "revision": "dbae28170ec0c8c5edbc",
-    "url": "/static/js/2.c4d992f9.chunk.js"
+    "revision": "df996e53845d7042034e",
+    "url": "/static/js/2.0a863d58.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.c4d992f9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0a863d58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c6b8392527b1f601c6f",
-    "url": "/static/js/3.a0324230.chunk.js"
+    "revision": "4ebb0eab8c99bc180549",
+    "url": "/static/js/3.cfb35925.chunk.js"
   },
   {
-    "revision": "939d30770c16dba9c791",
-    "url": "/static/js/4.8f785567.chunk.js"
+    "revision": "f42c4cb70073be9e5226",
+    "url": "/static/js/4.f0bb86df.chunk.js"
   },
   {
-    "revision": "4b837bd5c6e37225ad54",
-    "url": "/static/js/main.eb0a2c30.chunk.js"
+    "revision": "e0c60985653a4e478297",
+    "url": "/static/js/main.bd09b87a.chunk.js"
   },
   {
-    "revision": "7f7c5c536bf25b040c5a",
-    "url": "/static/js/runtime-main.050870ef.js"
+    "revision": "4874ffc5a68f29acefd5",
+    "url": "/static/js/runtime-main.15f615c4.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,16 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -94,5 +86,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "b303e103b468ee65b2fb7dd7d5787df9",
+    "url": "/static/media/uTracker.b303e103.png"
+  },
+  {
+    "revision": "8a900e701f4545d998ca41e4c76e838b",
+    "url": "/static/media/uber.8a900e70.png"
+  },
+  {
+    "revision": "1ea6cd94abf400e899b87370ba2d0f90",
+    "url": "/static/media/whatsapp.1ea6cd94.png"
   }
 ]);
